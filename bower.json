@@ -1,19 +1,12 @@
-{
-  "name": "Q",
-  "version":"0.0.0",
-  "homepage":"https://google.com",  
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    
-  ],
-
-  "dependencies": {   
-    "underscore": "latest",
-    "moment": "^2.12.0",    
+  {
+  "name": "q",
+  "version": "0.0.0",
+  "dependencies": {
+    "bootstrap": "~3.1.1",
+    "jquery": "~1.10.2",    
+    "underscore": "~1.5.2",    
+    "modernizr": "~2.6.2"
   },
-
-  "private": "true"
+  "devDependencies": {}
 }
+
